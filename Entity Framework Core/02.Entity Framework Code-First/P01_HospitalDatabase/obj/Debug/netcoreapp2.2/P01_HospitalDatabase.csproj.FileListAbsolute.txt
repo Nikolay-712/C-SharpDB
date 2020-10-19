@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.deps.json
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.dll
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.pdb
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.dll
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.pdb
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.genruntimeconfig.cache

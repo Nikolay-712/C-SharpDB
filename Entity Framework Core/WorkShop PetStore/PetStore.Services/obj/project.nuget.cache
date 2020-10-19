@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jc0iFpCV4QDbHBSrMr6BMyQiNy2egLh6zp39il0ujzQmm7uWu5+EZQQOFTxRI/MDHWP7ZfiKKDe1GA/Bptj8rg==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\repos\\PetStore\\PetStore.Services\\PetStore.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikolay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nikolay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

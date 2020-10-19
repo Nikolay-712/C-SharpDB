@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Users\Nikolay\source\repos\Entity Framework Introduction\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.genruntimeconfig.cache

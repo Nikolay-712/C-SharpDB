@@ -1,0 +1,8 @@
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\bin\Debug\netstandard2.1\PetStore.Models.deps.json
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\bin\Debug\netstandard2.1\PetStore.Models.dll
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\bin\Debug\netstandard2.1\PetStore.Models.pdb
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.dll
+C:\Users\Nikolay\source\repos\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.pdb

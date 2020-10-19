@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+C:\Users\Nikolay\source\repos\Entity Framework Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\bin\Debug\netcoreapp3.1\DesignPatterns-Prototype.exe
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\bin\Debug\netcoreapp3.1\DesignPatterns-Prototype.deps.json
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\bin\Debug\netcoreapp3.1\DesignPatterns-Prototype.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\bin\Debug\netcoreapp3.1\DesignPatterns-Prototype.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\bin\Debug\netcoreapp3.1\DesignPatterns-Prototype.dll
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\bin\Debug\netcoreapp3.1\DesignPatterns-Prototype.pdb
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.dll
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.pdb
+C:\Users\Nikolay\source\repos\Design Patterns-Exercise\DesignPatterns-Prototype\obj\Debug\netcoreapp3.1\DesignPatterns-Prototype.genruntimeconfig.cache
